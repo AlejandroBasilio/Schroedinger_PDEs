@@ -12,4 +12,4 @@ we obtained simulations that perfectly matched the theory behind them, we moved 
 or unconventional systems in the hopes of finding more interesting results, as well as discovering the
 strengths and weaknesses of numerical PDE solving.
 
-This repository contains the codes we used in our simulations, some videos of the main results and a pdf with an extensive explanation of our work method and the results obtained. 
+This repository contains some videos of the simulations and a pdf with an extensive explanation of our work method and an appendix with the codes we implemented.
